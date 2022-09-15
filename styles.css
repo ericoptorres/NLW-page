@@ -35,6 +35,16 @@ main {
 
 }
 
+header {
+    text-align: center;
+    padding-top: 32px;
+}
+
+header img{
+    width: 120px;
+    border-radius: 50%;
+}
+
 section {   
     color: white;
     background-image: linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
